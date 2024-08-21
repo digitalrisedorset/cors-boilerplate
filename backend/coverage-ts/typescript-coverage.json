@@ -1,0 +1,17 @@
+{
+  "fileCounts": {
+    "src/config.ts": {
+      "correctCount": 7,
+      "totalCount": 7
+    },
+    "src/index.ts": {
+      "correctCount": 46,
+      "totalCount": 46
+    }
+  },
+  "anys": [],
+  "percentage": 100,
+  "total": 53,
+  "covered": 53,
+  "uncovered": 0
+}
